@@ -8,3 +8,6 @@ zsh
 go
 docker
 make
+
+# CGo cross-compilation
+zig
